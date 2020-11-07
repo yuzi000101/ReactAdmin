@@ -1,0 +1,13 @@
+.product-detail .left {
+  margin: 0 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.product-detail .left .imgs {
+  width: 20px;
+  height: 20px;
+}
+.product-detail .right {
+  text-align: left;
+}
+/*# sourceMappingURL=./product.css.map */
